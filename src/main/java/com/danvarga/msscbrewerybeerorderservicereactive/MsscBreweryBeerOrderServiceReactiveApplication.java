@@ -1,4 +1,4 @@
-package dan.varga.msscbrewerybeerorderservicereactive;
+package com.danvarga.msscbrewerybeerorderservicereactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

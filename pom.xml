@@ -8,7 +8,7 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dan.varga</groupId>
+    <groupId>com.danvarga</groupId>
     <artifactId>mssc-brewery-beer-order-service-reactive</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mssc-brewery-beer-order-service-reactive</name>

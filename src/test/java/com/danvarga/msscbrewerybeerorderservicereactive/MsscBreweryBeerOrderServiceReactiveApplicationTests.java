@@ -1,4 +1,4 @@
-package dan.varga.msscbrewerybeerorderservicereactive;
+package com.danvarga.msscbrewerybeerorderservicereactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
